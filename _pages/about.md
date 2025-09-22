@@ -11,7 +11,7 @@ redirect_from:
 
 **Assistant Professor, Department of Chemical Engineering**
 **Kuwait University**
-<img src="/images/KULogo.png" alt="KU Logo" style="height:40px; vertical-align:middle; margin-left:10px;">
+<img src="/images/KULogo.png" alt="KU Logo" style="height:160px; vertical-align:middle; margin-left:10px;">
 
 ---
 
@@ -19,7 +19,7 @@ redirect_from:
 
 Dr. Alherz received his B.S., M.S., and Ph.D. in Chemical Engineering from the **University of Colorado Boulder**, under the supervision of **Prof. Charles B. Musgrave**.
 
-<img src="/images/CUBoulder-CEAS-Below.png" alt="CU Logo" style="height:40px; vertical-align:middle; margin-left:10px;">
+<img src="/images/CUBoulder-CEAS-Below.png" alt="CU Logo" style="height:120px; vertical-align:middle; margin-left:10px;">
 
 ---
 
@@ -45,7 +45,7 @@ Second, the successful integration of intermittent renewable sources like solar 
 The Alherz Lab tackles both fronts of this grand challenge. We use advanced computational modeling to design the fundamental materials required for a resilient and fully decarbonized energy system.
 
 
-<img src="images/CarbonCycle.jpeg" alt="CarbonCycle" style="height:100px; vertical-align:middle; margin-left:10px;">
+<img src="images/CarbonCycle.jpeg" alt="CarbonCycle" style="height:400px; vertical-align:middle; margin-left:10px;">
 
 ---
 
@@ -64,7 +64,7 @@ This integrated computational toolkit allows us to tackle complex problems acros
 
 ### Collaborations
 
-Our research is highly collaborative and enriched by strong partnerships with leading experimental and computational groups around the world:
+Our research is highly collaborative and enriched by strong international partnerships with leading experimental and computational groups around the world:
 
 * **Dr. Oana Luca** at the University of Colorado Boulder
 * **Dr. Brady Worrell** at the University of Denver
