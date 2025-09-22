@@ -14,8 +14,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Workshops"
-    url: /workshops/
+  # - title: "Workshops"
+  #   url: /workshops/
     
   - title: "Talks"
     url: /talks/    
