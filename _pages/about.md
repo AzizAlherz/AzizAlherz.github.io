@@ -11,14 +11,12 @@ redirect_from:
   <span style="font-size:2em; font-weight:bold;">Department of Chemical Engineering</span><br>
   <span style="font-size:1.5em;">Assistant Professor</span>
 
-
-  <img src="/images/KULogo.png" alt="KU Logo" style="height:200px;">
 </div>
 
+<div style="text-align:center;">
+ <img src="/images/KULogo.png" alt="KU Logo" style="height:200px;">
+ </div>
 
-
-
-<!-- **Kuwait University** -->
 
 
 ---
