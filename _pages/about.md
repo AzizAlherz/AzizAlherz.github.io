@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <div style="text-align:center;">
-  <span style="font-size:2em; font-weight:bold;">Assistant Professor</span><br>
-  <span style="font-size:1.5em;">Department of Chemical Engineering</span>
+  <span style="font-size:2em; font-weight:bold;">Department of Chemical Engineering</span><br>
+  <span style="font-size:1.5em;">Assistant Professor</span>
 
 
   <img src="/images/KULogo.png" alt="KU Logo" style="height:200px;">
@@ -40,13 +40,13 @@ Dr. Alherz received his B.S., M.S., and Ph.D. in Chemical Engineering from the *
 
 My research is focused on designing functional materials for a variety of applications in sustainability and clean energy:
 
-* **Homogeneous Catalysis:** Designing molecular catalysts and understanding reaction mechanisms for crucial chemical transformations, including CO₂ reduction (CO2R), hydrogen evolution (HER), and oxygen reduction (ORR).
+* **Homogeneous Catalysis:** Designing molecular catalysts and understanding reaction mechanisms for crucial chemical transformations, including CO2 reduction (CO2R), hydrogen evolution (HER), and oxygen reduction (ORR).
 
 * **Heterogeneous Catalysis:** Discovering and optimizing solid-state catalysts and surfaces for the same key reactions (CO2R, HER, ORR), with an emphasis on stability and efficiency.
 
 * **Energy Storage & Conversion:** Computationally screening and designing novel materials for advanced battery technologies and for the safe and efficient storage of hydrogen (H₂).
 
-* **Carbon Capture:** Engineering advanced materials and processes for the selective and low-energy capture of CO₂ from industrial sources and the atmosphere.
+* **Carbon Capture:** Engineering advanced materials and processes for the selective and low-energy capture of CO2 from industrial sources and the atmosphere.
 
 
 
@@ -82,7 +82,7 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 
 * We also leverage **machine learning and neural networks** to rapidly screen vast chemical spaces and predict key material properties, drastically reducing the time required for discovery.
 
-This integrated computational toolkit allows us to tackle complex problems across the energy landscape—from designing selective molecular catalysts to engineering high-capacity energy storage materials—and to rationally design them from first principles.
+This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to engineering high-capacity energy storage materials, and to rationally design them from first principles.
 
 ---
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
