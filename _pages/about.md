@@ -103,13 +103,13 @@ This integrated computational toolkit allows us to tackle complex problems acros
 
 Our research is highly collaborative and enriched by strong international partnerships with leading experimental and computational groups around the world:
 
-* **Dr. Oana Luca** at the University of Colorado Boulder
+* [**Dr. Oana Luca**](https://lucascience.com/), University of Colorado Boulder
 
-* **Dr. Brady Worrell** at the University of Denver
+* [**Dr. Brady Worrell**](https://www.bradyworrell.com/), University of Denver
 
-* **Dr. Charles G. Dismukes** at Rutgers University
+* **Dr. Charles G. Dismukes**, Rutgers University
 
-* **Dr. Mahak Dhiman** at CSIR-Indian Institute of Petroleum
+* **Dr. Mahak Dhiman**, CSIR-Indian Institute of Petroleum
 
 
 
