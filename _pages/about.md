@@ -56,7 +56,7 @@ My research is focused on designing functional materials for a variety of applic
 
 Our research program is dedicated to confronting one of the 21st century's most pressing challenges: the transition from a fossil fuel-based economy to a sustainable and secure energy future. We believe this transition requires a two-pronged approach.
 
-First, we must address our existing carbon footprint by developing a **circular carbon economy**. Our goal is to shift the paradigm from treating CO₂ as a waste product to utilizing it as a valuable C₁ feedstock. We develop technologies to capture carbon dioxide and catalytically convert it back into fuels and chemicals, effectively closing the carbon loop. 🌍
+First, we must address our existing carbon footprint by developing a **circular carbon economy**. Our goal is to shift the paradigm from treating CO₂ as a waste product to utilizing it as a valuable C1 feedstock. We develop technologies to capture carbon dioxide and catalytically convert it back into fuels and chemicals, effectively closing the carbon loop. 
 
 Second, the successful integration of intermittent renewable sources like solar and wind hinges on our ability to store energy efficiently and affordably. To ensure a stable and reliable grid, we need robust **energy storage** solutions. Our work in this area focuses on designing next-generation battery materials and developing novel systems for high-density hydrogen storage.
 
