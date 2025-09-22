@@ -36,7 +36,7 @@ Dr. Alherz received his B.S., M.S., and Ph.D. in Chemical Engineering from the *
 
 ---
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
-  <span style="font-size:2.2em; font-weight:bold;">Key Research Areas</span>
+  <span style="font-size:2.2em; font-weight:bold;">Research Areas</span>
 </div>
 
 
