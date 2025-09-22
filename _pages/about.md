@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abdulaziz (Aziz) Alherz"
+title: # "Abdulaziz (Aziz) Alherz"
 author_profile: true
 redirect_from: 
   - /about/
