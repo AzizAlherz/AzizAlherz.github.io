@@ -107,9 +107,9 @@ Our research is highly collaborative and enriched by strong international partne
 
 * [**Dr. Brady Worrell**](https://www.bradyworrell.com/), University of Denver
 
-* **Dr. Charles G. Dismukes**, Rutgers University
+* [**Dr. Charles G. Dismukes**](https://chem.rutgers.edu/research/faculty-research/139-dismukes-charles), Rutgers University
 
-* **Dr. Mahak Dhiman**, CSIR-Indian Institute of Petroleum
+* [**Dr. Mahak Dhiman**](https://scholar.google.com/citations?user=a6OeEnYAAAAJ&hl=en), CSIR-Indian Institute of Petroleum
 
 
 
