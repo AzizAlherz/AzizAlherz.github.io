@@ -1,17 +1,18 @@
 ---
 permalink: /
-title: "Abdulaziz Alherz"
+title: "Abdulaziz (Aziz) Alherz"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Dr. Abdulaziz (Aziz) Alherz
+<!-- # Abdulaziz (Aziz) Alherz -->
 
 **Assistant Professor, Department of Chemical Engineering**
+<img src="/images/KULogo.png" alt="KU Logo" style="height:140px; vertical-align:middle; margin-left:10px;">
 **Kuwait University**
-<img src="/images/KULogo.png" alt="KU Logo" style="height:160px; vertical-align:middle; margin-left:10px;">
+
 
 ---
 
@@ -19,7 +20,7 @@ redirect_from:
 
 Dr. Alherz received his B.S., M.S., and Ph.D. in Chemical Engineering from the **University of Colorado Boulder**, under the supervision of **Prof. Charles B. Musgrave**.
 
-<img src="/images/CUBoulder-CEAS-Below.png" alt="CU Logo" style="height:120px; vertical-align:middle; margin-left:10px;">
+<img src="/images/CUBoulder-CEAS-Below.png" alt="CU Logo" style="height:100px; vertical-align:middle; margin-left:10px;">
 
 ---
 
@@ -45,7 +46,7 @@ Second, the successful integration of intermittent renewable sources like solar 
 The Alherz Lab tackles both fronts of this grand challenge. We use advanced computational modeling to design the fundamental materials required for a resilient and fully decarbonized energy system.
 
 
-<img src="images/CarbonCycle.jpeg" alt="CarbonCycle" style="height:400px; vertical-align:middle; margin-left:10px;">
+<img src="images/CarbonCycle.jpeg" alt="CarbonCycle" style="height:600px; vertical-align:middle; margin-left:10px;">
 
 ---
 
