@@ -7,22 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-<!-- # Abdulaziz (Aziz) Alherz -->
-
 <div style="text-align:center;">
   <span style="font-size:2em; font-weight:bold;">Assistant Professor</span><br>
   <span style="font-size:1.5em;">Department of Chemical Engineering</span>
+
+
+  <img src="/images/KULogo.png" alt="KU Logo" style="height:200px;">
 </div>
 
 
-<img src="/images/KULogo.png" alt="KU Logo" style="height:140px; vertical-align:middle; margin-left:10px;">
 
 
 <!-- **Kuwait University** -->
 
 
 ---
-
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Education</span>
 </div>
@@ -30,15 +29,16 @@ redirect_from:
 Dr. Alherz received his B.S., M.S., and Ph.D. in Chemical Engineering from the **University of Colorado Boulder**, under the supervision of **Prof. Charles B. Musgrave**.
 
 
+
 <img src="/images/CUBoulder-CEAS-Below.png" alt="CU Logo" style="height:100px; vertical-align:middle; margin-left:10px;">
 
 ---
-
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Key Research Areas</span>
 </div>
 
-Our research is focused on designing functional materials for a variety of applications in sustainability and clean energy:
+
+My research is focused on designing functional materials for a variety of applications in sustainability and clean energy:
 
 * **Homogeneous Catalysis:** Designing molecular catalysts and understanding reaction mechanisms for crucial chemical transformations, including CO₂ reduction (CO2R), hydrogen evolution (HER), and oxygen reduction (ORR).
 
@@ -51,12 +51,10 @@ Our research is focused on designing functional materials for a variety of appli
 
 
 ---
-
-
-
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
-  <span style="font-size:2.2em; font-weight:bold;">Research Vision: Engineering a Sustainable Energy Future</span>
+  <span style="font-size:2.2em; font-weight:bold;">Engineering a Sustainable Energy Future</span>
 </div>
+
 
 Our research program is dedicated to confronting one of the 21st century's most pressing challenges: the transition from a fossil fuel-based economy to a sustainable and secure energy future. We believe this transition requires a two-pronged approach.
 
@@ -71,10 +69,10 @@ The Alherz Lab tackles both fronts of this grand challenge. We use advanced comp
 <img src="images/CarbonCycle.jpeg" alt="CarbonCycle" style="height:800px; vertical-align:middle; margin-left:10px;">
 
 ---
-
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
-  <span style="font-size:2.2em; font-weight:bold;">Our Approach: Computation-Driven Discovery</span>
+  <span style="font-size:2.2em; font-weight:bold;">Computation-Driven Discovery</span>
 </div>
+
 
 We operate at the interface of quantum chemistry, materials science, and data science to accelerate the discovery of next-generation materials for energy applications. Our methodology is built on a multi-scale modeling framework:
 
@@ -87,11 +85,10 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 This integrated computational toolkit allows us to tackle complex problems across the energy landscape—from designing selective molecular catalysts to engineering high-capacity energy storage materials—and to rationally design them from first principles.
 
 ---
-
-
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Collaborations</span>
 </div>
+
 
 Our research is highly collaborative and enriched by strong international partnerships with leading experimental and computational groups around the world:
 
@@ -106,7 +103,6 @@ Our research is highly collaborative and enriched by strong international partne
 
 
 ---
-
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Join Our Team!</span>
 </div>
