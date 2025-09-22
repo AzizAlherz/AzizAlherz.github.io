@@ -1,6 +1,6 @@
 ---
-title: "workshop item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Optimization of Natual Gas Processing Units"
+excerpt: "Lecture on optimization techniques to optimize operation and production of Natural Gas processing."
 collection: workshop
 ---
 
