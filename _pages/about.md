@@ -51,7 +51,7 @@ My research is focused on designing functional materials for a variety of applic
 * **Carbon Capture:** Engineering advanced materials and processes for the selective and low-energy capture of CO2 from industrial sources and the atmosphere.
 
 
-<img src="images/ResearchAreas.png" alt="ResearchAreas" style="width:600px;height:auto;">
+<img src="images/ResearchAreas.png" alt="ResearchAreas" style="width:800px;height:auto;">
 
 
 ---
