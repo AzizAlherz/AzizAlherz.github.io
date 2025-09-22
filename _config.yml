@@ -23,8 +23,8 @@ repository               : "AzizAlherz/AzizAlherz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/PersonalImage.jpg"
-  name             : "Aziz Alherz"
+  avatar           : "images/PersonalImage.png"
+  name             : # "Aziz Alherz"
   pronouns         : # example: "she/her"  
   bio              : "Reaction Modeling | DFT"
   location         : "Kuwait"

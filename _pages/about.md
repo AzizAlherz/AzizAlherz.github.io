@@ -46,7 +46,7 @@ My research is focused on designing functional materials for a variety of applic
 
 * **Heterogeneous Catalysis:** Discovering and optimizing solid-state catalysts and surfaces for the same key reactions (CO2R, HER, ORR), with an emphasis on stability and efficiency.
 
-* **Energy Storage & Conversion:** Computationally screening and designing novel materials for advanced battery technologies and for the safe and efficient storage of hydrogen (H₂).
+* **Energy Storage & Conversion:** Computationally screening and designing novel materials for advanced battery technologies and for the safe and efficient storage of hydrogen (H2).
 
 * **Carbon Capture:** Engineering advanced materials and processes for the selective and low-energy capture of CO2 from industrial sources and the atmosphere.
 
@@ -91,6 +91,7 @@ We operate at the interface of quantum chemistry, materials science, and data sc
   <img src="/images/ORCA.svg" alt="ORCA" style="width:140px; height:auto;">
   <img src="/images/QE.jpg" alt="Quantum Espresso" style="width:140px; height:auto;">
 </div>
+
 
 
 
