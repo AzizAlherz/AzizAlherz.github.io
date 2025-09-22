@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align:center;">
+  <span style="font-size:2em; font-weight:bold;">Department of Chemical Engineering</span><br>
+  <span style="font-size:1.5em;">Assistant Professor</span>
+
+</div>
 
 <div style="text-align:center;">
 <a href="https://engineering.ku.edu.kw/che" target="_blank">
@@ -86,11 +91,7 @@ We operate at the interface of quantum chemistry, materials science, and data sc
   <img src="/images/ORCA.svg" alt="ORCA" style="width:140px; height:auto;">
   <img src="/images/QE.jpg" alt="Quantum Espresso" style="width:140px; height:auto;">
 </div>
-<div style="text-align:center;">
-  <span style="font-size:2em; font-weight:bold;">Department of Chemical Engineering</span><br>
-  <span style="font-size:1.5em;">Assistant Professor</span>
 
-</div>
 
 
 This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to engineering high-capacity energy storage materials, and to rationally design them from first principles.
