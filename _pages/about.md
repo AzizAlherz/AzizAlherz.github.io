@@ -7,17 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display:flex; justify-content:center; align-items:center; gap:20px; width:600px; margin:0 auto;">
-  <img src="/images/G16.jpg" alt="G16" style="width:140px; height:auto;">
-  <img src="/images/jdftx.png" alt="JDFTx" style="width:140px; height:auto;">
-  <img src="/images/ORCA.svg" alt="ORCA" style="width:140px; height:auto;">
-  <img src="/images/QE.jpg" alt="Quantum Espresso" style="width:140px; height:auto;">
-</div>
-<div style="text-align:center;">
-  <span style="font-size:2em; font-weight:bold;">Department of Chemical Engineering</span><br>
-  <span style="font-size:1.5em;">Assistant Professor</span>
-
-</div>
 
 <div style="text-align:center;">
 <a href="https://engineering.ku.edu.kw/che" target="_blank">
@@ -91,7 +80,17 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 * We also leverage **machine learning and neural networks** to rapidly screen vast chemical spaces and predict key material properties, drastically reducing the time required for discovery.
 
 
+<div style="display:flex; justify-content:center; align-items:center; gap:20px; width:600px; margin:0 auto;">
+  <img src="/images/G16.jpg" alt="G16" style="width:140px; height:auto;">
+  <img src="/images/jdftx.png" alt="JDFTx" style="width:140px; height:auto;">
+  <img src="/images/ORCA.svg" alt="ORCA" style="width:140px; height:auto;">
+  <img src="/images/QE.jpg" alt="Quantum Espresso" style="width:140px; height:auto;">
+</div>
+<div style="text-align:center;">
+  <span style="font-size:2em; font-weight:bold;">Department of Chemical Engineering</span><br>
+  <span style="font-size:1.5em;">Assistant Professor</span>
 
+</div>
 
 
 This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to engineering high-capacity energy storage materials, and to rationally design them from first principles.
