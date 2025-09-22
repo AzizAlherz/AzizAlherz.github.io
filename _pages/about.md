@@ -14,7 +14,9 @@ redirect_from:
 </div>
 
 <div style="text-align:center;">
- <img src="/images/KULogo.png" alt="KU Logo" style="height:200px;">
+<a href="https://engineering.ku.edu.kw/che" target="_blank">
+  <img src="/images/KULogo.png" alt="KU Logo" style="height:200px;">
+</a>
  </div>
 
 
@@ -28,7 +30,9 @@ Dr. Alherz received his B.S., M.S., and Ph.D. in Chemical Engineering from the *
 
 
 
-<img src="/images/CUBoulder-CEAS-Below.png" alt="CU Logo" style="height:100px; vertical-align:middle; margin-left:10px;">
+<a href="https://www.colorado.edu/lab/musgrave-research-group/" target="_blank">
+  <img src="/images/CUBoulder-CEAS-Below.png" alt="CU Logo" style="height:100px; vertical-align:middle; margin-left:10px;">
+</a>
 
 ---
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
