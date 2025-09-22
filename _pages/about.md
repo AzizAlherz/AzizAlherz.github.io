@@ -9,9 +9,10 @@ redirect_from:
 
 <!-- # Abdulaziz (Aziz) Alherz -->
 
-**Assistant Professor** 
-
-**Department of Chemical Engineering**
+<div style="text-align:center;">
+  <span style="font-size:2em; font-weight:bold;">Assistant Professor</span><br>
+  <span style="font-size:1.5em;">Department of Chemical Engineering</span>
+</div>
 
 
 <img src="/images/KULogo.png" alt="KU Logo" style="height:140px; vertical-align:middle; margin-left:10px;">
@@ -22,7 +23,9 @@ redirect_from:
 
 ---
 
-### Education
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Education</span>
+</div>
 
 Dr. Alherz received his B.S., M.S., and Ph.D. in Chemical Engineering from the **University of Colorado Boulder**, under the supervision of **Prof. Charles B. Musgrave**.
 
@@ -31,7 +34,9 @@ Dr. Alherz received his B.S., M.S., and Ph.D. in Chemical Engineering from the *
 
 ---
 
-### Key Research Areas 
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Key Research Areas</span>
+</div>
 
 Our research is focused on designing functional materials for a variety of applications in sustainability and clean energy:
 
@@ -49,7 +54,9 @@ Our research is focused on designing functional materials for a variety of appli
 
 
 
-### Research Vision: Engineering a Sustainable Energy Future 
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Research Vision: Engineering a Sustainable Energy Future</span>
+</div>
 
 Our research program is dedicated to confronting one of the 21st century's most pressing challenges: the transition from a fossil fuel-based economy to a sustainable and secure energy future. We believe this transition requires a two-pronged approach.
 
@@ -65,7 +72,9 @@ The Alherz Lab tackles both fronts of this grand challenge. We use advanced comp
 
 ---
 
-### Our Approach: Computation-Driven Discovery 
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Our Approach: Computation-Driven Discovery</span>
+</div>
 
 We operate at the interface of quantum chemistry, materials science, and data science to accelerate the discovery of next-generation materials for energy applications. Our methodology is built on a multi-scale modeling framework:
 
@@ -80,7 +89,9 @@ This integrated computational toolkit allows us to tackle complex problems acros
 ---
 
 
-### Collaborations
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Collaborations</span>
+</div>
 
 Our research is highly collaborative and enriched by strong international partnerships with leading experimental and computational groups around the world:
 
@@ -96,7 +107,9 @@ Our research is highly collaborative and enriched by strong international partne
 
 ---
 
-### Join Our Team!
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Join Our Team!</span>
+</div>
 
 **We are actively seeking motivated M.S. and Ph.D. students and Research Assistants to join our group!**
 
