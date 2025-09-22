@@ -1,5 +1,5 @@
 ---
-title: "Chemical Engineering Thermodynamics"
+title: "Chemical Engineering Thermodynamics (CHE-321)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-Thermodynamics
@@ -42,4 +42,3 @@ Upon successful completion of this course, students will be able to:
 *  **Reading Quizzes:** 5% 
 *  **Midterm Exams:** 35% 
 *  **Final Exam:** 40% 
-*  **Participation Bonus:** 5% 
