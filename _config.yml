@@ -23,10 +23,10 @@ repository               : "AzizAlherz/AzizAlherz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "PersonalImage.png"
+  name             : "Aziz Alherz"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography"
+  bio              : "Reaction Modeling | DFT"
   location         : "Kuwait"
   employer         : "Kuwait University"
   uri              : # URL
