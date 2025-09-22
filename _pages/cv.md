@@ -20,7 +20,7 @@ Work experience
 ======
 * 2023 - Present: Assistant Professor
   * Kuwait University, Chemical Engineering Department
-  * Duties included: Teaching undergraduate courses, conducting research, and serving on departmental committees.
+  * Duties included: Teaching courses, conducting research, and serving on departmental committees.
 
 * 2018 - 2023: Kuwait University Fellowship Recipient
   * University of Colorado - Boulder
