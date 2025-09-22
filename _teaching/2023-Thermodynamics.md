@@ -16,18 +16,18 @@ Thermodynamics is a cornerstone of chemical engineering, providing the essential
 
 ### Student Learning Objectives
 Upon successful completion of this course, students will be able to:
-* [cite_start]Define a thermodynamic system and solve problems using the first and second laws of thermodynamics[cite: 65, 66].
-* [cite_start]Apply equations of state (EOS) to estimate the thermodynamic properties of real fluids using departure functions[cite: 67].
-* [cite_start]Distinguish the differences between an ideal gas, an ideal solution, and a non-ideal solution[cite: 68].
-* [cite_start]Calculate the equilibrium distribution of a component between multiple phases[cite: 69].
-* [cite_start]Calculate the maximum extent of chemical reactions[cite: 70].
-* [cite_start]Use simulation packages to design common equipment such as valves, compressors, and heat exchangers[cite: 72].
+*  Define a thermodynamic system and solve problems using the first and second laws of thermodynamics.
+*  Apply equations of state (EOS) to estimate the thermodynamic properties of real fluids using departure functions.
+*  Distinguish the differences between an ideal gas, an ideal solution, and a non-ideal solution.
+*  Calculate the equilibrium distribution of a component between multiple phases.
+*  Calculate the maximum extent of chemical reactions.
+*  Use simulation packages to design common equipment such as valves, compressors, and heat exchangers.
 
 ### Required Textbook
-* *Introductory Chemical Engineering Thermodynamics*, 2nd edition, by J.R. Elliott and C.T. [cite_start]Lira[cite: 24].
+* *Introductory Chemical Engineering Thermodynamics*, 2nd edition, by J.R. Elliott and C.T.  Lira.
 
 ### Course Topics
-[cite_start]The course covers the following major topics[cite: 110]:
+ The course covers the following major topics:
 * Thermodynamics 1 Review and Introduction
 * Classical Thermodynamics & Engineering EOS for PVT properties
 * Departure Functions
@@ -37,9 +37,9 @@ Upon successful completion of this course, students will be able to:
 * Reaction Equilibrium
 
 ### Grading Breakdown
-* [cite_start]**Homework Assignments:** 10% [cite: 35]
-* [cite_start]**In-class Quizzes:** 10% [cite: 35]
-* [cite_start]**Reading Quizzes:** 5% [cite: 35]
-* [cite_start]**Midterm Exams:** 35% [cite: 35]
-* [cite_start]**Final Exam:** 40% [cite: 35]
-* [cite_start]**Participation Bonus:** 5% [cite: 35]
+*  **Homework Assignments:** 10%
+*  **In-class Quizzes:** 10% 
+*  **Reading Quizzes:** 5% 
+*  **Midterm Exams:** 35% 
+*  **Final Exam:** 40% 
+*  **Participation Bonus:** 5% 
