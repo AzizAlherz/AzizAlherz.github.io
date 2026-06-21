@@ -1,5 +1,5 @@
 ---
-title: "Optimization of Natual Gas Processing Units"
+title: "Optimization of Natural Gas Processing Units"
 excerpt: "Lecture on optimization techniques to optimize operation and production of Natural Gas processing."
 collection: workshop
 ---
