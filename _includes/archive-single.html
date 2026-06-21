@@ -56,10 +56,8 @@
       <p>Recommended citation: {{ post.citation }}</p>
     {% endif %}
 
-    {% if post.pdfurl or post.paperurl or post.slidesurl or post.bibtexurl %}
+    {% if post.paperurl or post.slidesurl or post.bibtexurl %}
       <p>
-        {% if post.pdfurl %}<a href="{{ post.pdfurl }}">Download Article</a>{% endif %}
-        {% if post.pdfurl and post.paperurl %} | {% endif %}
         {% if post.paperurl %}<a href="{{ post.paperurl }}">Link to Article</a>{% endif %}
         {% if post.slidesurl %} | <a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
         {% if post.bibtexurl %} | <a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
