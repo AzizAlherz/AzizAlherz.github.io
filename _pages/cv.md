@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+description: "Curriculum vitae of Aziz Alherz — Assistant Professor at Kuwait University with expertise in computational chemistry, DFT, electrocatalysis, and sustainable energy materials."
 redirect_from:
   - /resume
 ---

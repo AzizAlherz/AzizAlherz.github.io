@@ -2,6 +2,7 @@
 permalink: /
 title: # "Abdulaziz (Aziz) Alherz"
 author_profile: true
+description: "Aziz Alherz is an Assistant Professor at Kuwait University using DFT, microkinetic modeling, and machine learning to design catalysts and materials for CO2 reduction, hydrogen storage, and clean energy."
 redirect_from: 
   - /about/
   - /about.html

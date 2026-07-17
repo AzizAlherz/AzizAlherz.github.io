@@ -24,7 +24,7 @@ repository               : "AzizAlherz/AzizAlherz.github.io"
 author:
   # Biographic information
   avatar           : "PersonalImage.png"
-  name             : # "Aziz Alherz"
+  name             : "Aziz Alherz"
   pronouns         : # example: "she/her"  
   bio              : "Reaction Modeling | DFT"
   location         : "Kuwait"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/alherzaziz/"
+  linkedin         : "alherzaziz"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -152,9 +152,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4"
   google:
-    tracking_id          :
+    tracking_id          : "G-XXXXXXXXXX" # Replace with your GA4 Measurement ID from analytics.google.com
 
 
 # Reading Files
