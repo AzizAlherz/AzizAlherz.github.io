@@ -4,6 +4,13 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-07-17 (update 9)
+
+### Reverted
+- Removed all text-align changes from `assets/css/main.scss`: reverted justified text and author name/bio centering. Site is back to original left-aligned defaults.
+
+---
+
 ## 2026-07-17 (update 8)
 
 ### Fixes

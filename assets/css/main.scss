@@ -42,15 +42,3 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Justified text site-wide */
-p, li, .page__content {
-  text-align: justify;
-}
-
-/* Center author name and bio under profile photo (desktop sidebar only) */
-@media (min-width: 925px) {
-  .author__name,
-  .author__bio {
-    text-align: center;
-  }
-}
