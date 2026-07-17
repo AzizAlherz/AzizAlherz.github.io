@@ -4,6 +4,13 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-07-17 (update 7)
+
+### Style
+- **Centered author sidebar:** Added `text-align: center` to `.author__content` in `assets/css/main.scss` so the name and bio are centered under the profile photo.
+
+---
+
 ## 2026-07-17 (update 6)
 
 ### Style
