@@ -4,6 +4,13 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-07-17 (update 8)
+
+### Fixes
+- **Author sidebar centering:** Replaced blanket `.author__content { text-align: center }` with a `@media (min-width: 925px)` rule targeting `.author__name` and `.author__bio` directly. On mobile the sidebar is a table-cell layout (avatar left, content right), so blanket centering was pushing the name to the far right of the cell. Now centering only applies on desktop where the sidebar is a full-width block.
+
+---
+
 ## 2026-07-17 (update 7)
 
 ### Style
