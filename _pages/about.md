@@ -16,7 +16,7 @@ redirect_from:
 
 <div style="text-align:center;">
 <a href="https://engineering.ku.edu.kw/che" target="_blank">
-  <img src="/images/KULogo.png" alt="KU Logo" style="height:200px;">
+  <img src="/images/KULogo.png" alt="KU Logo" style="max-height:200px; max-width:100%; height:auto;">
 </a>
  </div>
 
@@ -32,7 +32,7 @@ Dr. Alherz received his B.S., M.S., and Ph.D. in Chemical Engineering from the *
 
 
 <a href="https://www.colorado.edu/lab/musgrave-research-group/" target="_blank">
-  <img src="/images/CUBoulder-CEAS-Below.png" alt="CU Logo" style="height:100px; vertical-align:middle; margin-left:10px;">
+  <img src="/images/CUBoulder-CEAS-Below.png" alt="CU Logo" style="max-height:100px; max-width:100%; height:auto; vertical-align:middle;">
 </a>
 
 ---
@@ -52,7 +52,7 @@ My research is focused on designing functional materials for a variety of applic
 * **Carbon Capture:** Engineering advanced materials and processes for the selective and low-energy capture of CO2 from industrial sources and the atmosphere.
 
 
-<img src="images/ResearchAreas.png" alt="ResearchAreas" style="width:800px;height:auto;">
+<img src="images/ResearchAreas.png" alt="ResearchAreas" style="max-width:100%; height:auto; display:block; margin:0 auto;">
 
 
 ---
@@ -88,11 +88,11 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 * We also leverage **machine learning and neural networks** to rapidly screen vast chemical spaces and predict key material properties, drastically reducing the time required for discovery.
 
 
-<div style="display:flex; justify-content:center; align-items:center; gap:20px; width:600px; margin:0 auto;">
-  <img src="/images/G16.jpg" alt="G16" style="width:140px; height:auto;">
-  <img src="/images/jdftx.png" alt="JDFTx" style="width:140px; height:auto;">
-  <img src="/images/ORCA.svg" alt="ORCA" style="width:140px; height:auto;">
-  <img src="/images/QE.jpg" alt="Quantum Espresso" style="width:140px; height:auto;">
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:20px; max-width:600px; width:100%; margin:0 auto;">
+  <img src="/images/G16.jpg" alt="G16" style="width:140px; max-width:40%; height:auto;">
+  <img src="/images/jdftx.png" alt="JDFTx" style="width:140px; max-width:40%; height:auto;">
+  <img src="/images/ORCA.svg" alt="ORCA" style="width:140px; max-width:40%; height:auto;">
+  <img src="/images/QE.jpg" alt="Quantum Espresso" style="width:140px; max-width:40%; height:auto;">
 </div>
 
 

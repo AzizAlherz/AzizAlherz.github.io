@@ -4,6 +4,13 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-07-17 (update 5)
+
+### Fixes
+- **Mobile image scaling (about.md):** Fixed all fixed-size images on the homepage to be responsive. Changes: KU Logo (`height:200px` → `max-height:200px; max-width:100%`), CU Boulder logo (`height:100px` → `max-height:100px; max-width:100%`), ResearchAreas.png (`width:800px` → `max-width:100%`), software logos flex container (`width:600px` → `max-width:600px; width:100%; flex-wrap:wrap` with `max-width:40%` per logo so they wrap on small screens).
+
+---
+
 ## 2026-07-17 (update 4)
 
 ### New Content
