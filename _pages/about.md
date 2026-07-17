@@ -71,7 +71,7 @@ The Alherz Lab tackles both fronts of this grand challenge. We use advanced comp
 
 
 
-<img src="images/CarbonCycle.jpeg" alt="CarbonCycle" style="height:800px; vertical-align:middle; margin-left:10px;">
+<img src="images/MNCs-TOC.png" alt="MNCs TOC" style="max-width:100%; height:auto; display:block; margin:0 auto;">
 
 ---
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">

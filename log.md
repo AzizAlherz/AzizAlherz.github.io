@@ -4,6 +4,13 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-07-17 (update 4)
+
+### New Content
+- **Replaced CarbonCycle image:** Swapped `images/CarbonCycle.jpeg` for `images/MNCs-TOC.png` in `_pages/about.md`. Fixed inline style from fixed `height:800px` to `max-width:100%; height:auto` for proper mobile scaling.
+
+---
+
 ## 2026-07-17 (update 3)
 
 ### Analytics
