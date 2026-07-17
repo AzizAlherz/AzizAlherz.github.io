@@ -4,6 +4,15 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-07-17 (update 2)
+
+### New Content
+- **_team/ collection:** Added `_config.yml` entry for `team` collection (`output: false`).
+- **Team files:** Created `_team/ali-albather.md` (grad, project: Systematic Improvement of NECs as Liquid Organic Hydrogen Carriers) and `_team/aseel-malallah.md` (undergrad, project: Exploring Potential Applications of Quinones and Thioquinones in Electrochemistry).
+- **Group page refactor:** Rewrote `_pages/group.md` to loop over `site.team` filtered by `role` field (graduate / undergraduate / postdoc / alumni). Adding or graduating a member now only requires editing their individual file. Alumni section supports `current_position` field for future use.
+
+---
+
 ## 2026-07-17
 
 ### Fixes
