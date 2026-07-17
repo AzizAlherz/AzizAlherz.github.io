@@ -4,6 +4,13 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-07-17 (update 6)
+
+### Style
+- **Justified text:** Added `text-align: justify` to `p`, `li`, and `.page__content` in `assets/css/main.scss` for site-wide justified text.
+
+---
+
 ## 2026-07-17 (update 5)
 
 ### Fixes
