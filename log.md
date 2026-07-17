@@ -4,6 +4,13 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-07-17 (update 10)
+
+### Style
+- Restored `text-align: justify` for `p`, `li`, `.page__content`. Author sidebar name/bio left at original left-aligned defaults.
+
+---
+
 ## 2026-07-17 (update 9)
 
 ### Reverted
