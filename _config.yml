@@ -154,7 +154,7 @@ social:
 analytics:
   provider               : "google-analytics-4"
   google:
-    tracking_id          : "G-XXXXXXXXXX" # Replace with your GA4 Measurement ID from analytics.google.com
+    tracking_id          : "G-WT34ZS286N"
 
 
 # Reading Files

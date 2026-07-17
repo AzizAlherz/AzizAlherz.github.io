@@ -4,6 +4,13 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-07-17 (update 3)
+
+### Analytics
+- **GA4 Measurement ID added:** Set `tracking_id: "G-WT34ZS286N"` in `_config.yml` (stream: Alherz Lab Website, URL: https://azizalherz.github.io).
+
+---
+
 ## 2026-07-17 (update 2)
 
 ### New Content
