@@ -4,6 +4,13 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-08-18
+
+### New Content
+- **New publication:** Added `_publications/2026-003.md` — "Molecular Property Prediction via Sparse Binary Matrix Representation and Convolutional Neural Networks," *Industrial & Engineering Chemistry Research*, published online August 15, 2026. DOI: https://doi.org/10.1021/acs.iecr.6c01601. Authors: Alherz, A. W., Tezak, C. R., & Alhajeri, M. S.
+
+---
+
 ## 2026-07-17 (update 10)
 
 ### Style
