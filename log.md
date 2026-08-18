@@ -9,6 +9,10 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 ### New Content
 - **New publication:** Added `_publications/2026-003.md` — "Molecular Property Prediction via Sparse Binary Matrix Representation and Convolutional Neural Networks," *Industrial & Engineering Chemistry Research*, published online August 15, 2026. DOI: https://doi.org/10.1021/acs.iecr.6c01601. Authors: Alherz, A. W., Tezak, C. R., & Alhajeri, M. S.
 
+### Fixes
+- **Talk title (`_talks/2025-SBMR.md`):** Changed title from placeholder "SBMR Model for something something" to "SBMR Model for HOMO and LUMO Energy Predictions."
+- **Talk description (`_talks/2025-SBMR.md`):** Superscripted the −1 exponent in "kcal mol−1" using `<sup>` tag.
+
 ---
 
 ## 2026-07-17 (update 10)
