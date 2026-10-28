@@ -4,6 +4,17 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-10-28
+
+### New Content
+- **TOC graphics on the publications page:** Added `images/toc/` with one TOC / graphical-abstract image for each of the 23 publications, named after its `_publications/` file (e.g. `2018-001.png`). Source files were downloaded by hand from the publisher article pages into `Alherz_Website/toc_figures/` (left untouched). All are copied byte-for-byte except `2018-001.png` (Chem Soc Rev, `c7cs00171a-ga.png`), which was scaled from 1536×945 (1.25 MB) to 520×320 (156 KB) to match the other images' 520 px width. Source → target: `c7cs00171a-ga.png`→2018-001, `m_ja8b09653_0009.png`→2018-002, `m_jp8b08536_0008.png`→2018-003, `m_jp7b12093_0017.png`→2018-004, `m_c9cc00928k-ga.png`→2019-001, `m_cs9b04773_0008.png`→2020-001, `m_c9dt04691g-ga.png`→2020-002, `m_ja1c03428_0008.png`→2021-001, `m_jp1c07484_0001.png`→2021-002, `m_jz0c03662_0005.png`→2021-003, `m_d1cp02193a-ga.png`→2021-004, `m_cs2c01832_0001.png`→2022-001, `m_d2ya00114d-ga.png`→2022-002, `Predictive energetic tuning of C-Nucleophiles ….jpg`→2022-003, `m_cs3c01978_0008.png`→2023-001, `m_jp4c06826_0011.png`→2024-001, `m_ec4c00073_0008.png`→2024-002, `m_d5ta01163a-ga.png`→2025-001, `m_ao5c06914_0010.png`→2025-002, `m_tz5c00857_0006.png`→2025-003, `m_ef5c05539_0010.png`→2026-001, `ejic70274-blkfxd-0001-m.jpg`→2026-002, `m_ie6c01601_0009.png`→2026-003.
+- **Front matter:** Added `tocimage: 'toc/<id>.<ext>'` (path relative to `/images/`) to every file in `_publications/`.
+- **`_includes/archive-single.html`:** For publications with a `tocimage`, renders an `<img class="archive__item-toc">` (lazy-loaded, alt text "TOC graphic for <title>") under the title and adds an `archive__item--toc` modifier class to the `<article>`. Other collections (talks, teaching) are unaffected.
+- **`assets/css/main.scss`:** Added `.archive__item-toc` styles: floats right at 40% width (max 400px) from the `$medium` breakpoint (768px) up, and stacks full-width above the text on smaller screens. It has a white background so the transparent RSC graphics stay readable in dark mode. `.archive__item--toc` uses the theme's `clearfix` mixin so tall figures don't spill into the next entry.
+- To add a TOC graphic for a future paper: save it as `images/toc/<pub-file-id>.<ext>` and add `tocimage: 'toc/<pub-file-id>.<ext>'` to its front matter.
+
+---
+
 ## 2026-08-18
 
 ### New Content

@@ -47,3 +47,24 @@ p, li, .page__content {
   text-align: justify;
 }
 
+/* Publication TOC graphics (set via `tocimage` in _publications/*.md) */
+.archive__item--toc {
+  @include clearfix;
+}
+
+.archive__item-toc {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin: 0.5em 0 1em;
+  border-radius: $border-radius;
+  background-color: #fff; /* RSC graphics have transparent backgrounds */
+
+  @include breakpoint($medium) {
+    float: right;
+    width: 40%;
+    margin: 0.25em 0 1em 1.5em;
+  }
+}
+
