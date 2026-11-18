@@ -4,6 +4,18 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 
 ---
 
+## 2026-11-18
+
+### New Content
+- **New publication:** Added `_publications/2026-004.md` — "Sparse Binary Matrix Representation-Based CNN for UV/Vis Optical Property Prediction," *Journal of Engineering Research*, November 2026. DOI: https://doi.org/10.1016/j.jer.2026.10.071. Authors: Alhajeri, M. S., & Alherz, A. W. Crossref gives only the issue month (2026-11), so `date: 2026-11-03` is the Crossref record-creation date. No abstract is available from Crossref, so the excerpt is a one-line summary based on the title.
+- **New publication:** Added `_publications/2026-005.md` — "Potential-Dependent Hydricities and Bond Dissociation Free Energies of Metal Surface Hydrides," *ACS Applied Materials & Interfaces*, published online November 12, 2026. DOI: https://doi.org/10.1021/acsami.6c12761. Authors: Alherz, A. W., & Alsunni, Y. A. Excerpt summarized from the abstract. No volume/pages yet (ASAP).
+- **TOC graphics:** `toc_figures/JER_10.1016j.jer.2026.10.071.png` (4587×1883) → `images/toc/2026-004.png` (520×213); `toc_figures/am-2026-12761w_0010.png` (1000×533) → `images/toc/2026-005.png` (520×277). Both scaled to 520 px wide with Lanczos; transparency kept (the CSS adds a white background).
+
+### Housekeeping
+- Updated `WEBSITE_MASTER.md` (§2, §3.2 table and count, §4 image note, §10 changelog) and `WEBSITE_DASHBOARD.html` (publication count, TOC count, changelog) to 25 publications.
+
+---
+
 ## 2026-10-28
 
 ### New Content
