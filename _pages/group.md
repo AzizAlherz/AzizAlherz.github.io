@@ -24,8 +24,8 @@ The Alherz Lab is home to a diverse group of researchers united by a passion for
 <div style="margin-bottom: 1.5em;">
   {% if member.photo %}<img src="/images/team/{{ member.photo }}" alt="{{ member.name }}" style="width:80px; height:80px; border-radius:50%; float:left; margin-right:1em;">{% endif %}
   <strong>{{ member.name }}</strong><br>
-  <em>{{ member.degree }}, {{ member.institution }}</em><br>
-  <span style="color:#555;">Project: {{ member.project }}</span>
+  <em>{{ member.degree }}, {{ member.institution }}</em>
+  {% if member.project %}<br><span style="color:#555;">Project: {{ member.project }}</span>{% endif %}
   {% if member.email %}<br><a href="mailto:{{ member.email }}">{{ member.email }}</a>{% endif %}
   <div style="clear:both;"></div>
 </div>

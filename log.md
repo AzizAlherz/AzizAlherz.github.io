@@ -14,6 +14,10 @@ All changes to the Alherz Lab website are recorded here in reverse chronological
 ### Housekeeping
 - Updated `WEBSITE_MASTER.md` (§2, §3.2 table and count, §4 image note, §10 changelog) and `WEBSITE_DASHBOARD.html` (publication count, TOC count, changelog) to 25 publications.
 
+### New Group Members
+- **New graduate students:** Added `_team/hanin-abdelgalil.md` (Ph.D. Chemical Engineering), `_team/lynn-saleh.md` (M.S. Chemical Engineering) and `_team/farah-alrabiah.md` (M.S. Chemical Engineering), all `role: graduate`, Kuwait University. `project` is left blank until research topics are decided.
+- **`_pages/group.md`:** In the Graduate Students section, the "Project:" line now renders only when `project` is set, so members without a topic don't show an empty "Project:" label. Undergraduate and postdoc sections unchanged.
+
 ---
 
 ## 2026-10-28
